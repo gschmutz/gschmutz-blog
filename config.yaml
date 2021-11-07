@@ -2,13 +2,14 @@ baseurl: 'http://gschmutz.net/'
 title: TechBlog
 author: Guido Schmutz
 copyright: >-
-  Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights
-  reserved.
+  Copyright © 2021, All rights reserved.
 
 paginate: 10
 theme: hugo-clarity
+publishDir: docs
 disqusShortname: ''
 DefaultContentLanguage: en
+
 
 taxonomies:
 #  category: categories
@@ -37,6 +38,7 @@ params:
   twitter: '@gschmutz'
   largeTwitterCard: false
   introDescription: 'Technologist, coach, teacher. Platform Architect @ Trivadis'
+  since: 2021
   ga_analytics: XXXXXXXXXX
   numberOfTagsShown: 20
   fallBackOgImage: images/thumbnail.png
