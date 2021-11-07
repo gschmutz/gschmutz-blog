@@ -1,0 +1,58 @@
+baseurl: 'http://gschmutz.net/'
+title: TechBlog
+author: Guido Schmutz
+copyright: >-
+  Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights
+  reserved.
+
+paginate: 10
+theme: hugo-clarity
+disqusShortname: ''
+DefaultContentLanguage: en
+
+taxonomies:
+#  category: categories
+  tag: tags
+#  series: series
+  
+markup:
+  goldmark:
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+    extensions:
+      typographer: false
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    hl_Lines: '--'
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: false
+    noClasses: false
+    tabWidth: 2
+params:
+  author: Guido Schmutz
+  twitter: '@gschmutz'
+  largeTwitterCard: false
+  introDescription: 'Technologist, coach, teacher. Platform Architect @ Trivadis'
+  ga_analytics: XXXXXXXXXX
+  numberOfTagsShown: 20
+  fallBackOgImage: images/thumbnail.png
+  codeMaxLines: 7
+  codeLineNumbers: false
+  centerLogo: false
+  logo: logos/logo.png
+  
+  enableMathNotation: false
+  
+  mainSections:
+    - post
+  figurePositionShow: false
+  figurePositionLabel: Figure
+  mobileNavigation: left
+  enforceLightMode: false
+  languageMenuName: "\U0001F310"
+  comments: true
+social:
