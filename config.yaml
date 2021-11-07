@@ -6,7 +6,7 @@ copyright: >-
 
 paginate: 10
 theme: hugo-clarity
-publishDir: docs
+#publishDir: docs
 disqusShortname: ''
 DefaultContentLanguage: en
 
