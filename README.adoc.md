@@ -1,0 +1,10 @@
+= gschmutz's Blog (source)
+
+image::https://github.com/gschmutz/gschmutz-blog/workflows/GitHub%20Pages/badge.svg?branch=main[]
+
+This is the source for https://gschmutz.net, built using Hugo and hosted via GitHub pages.
+
+== Running locally
+
+`brew install asciidoctor asciidoc hugo`
+`hugo --buildDrafts server`
