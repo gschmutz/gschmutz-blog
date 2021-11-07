@@ -224,6 +224,8 @@ After a short while, the platform with Apache Kafka and Zookeeper should be up a
 
 In a browser window, navigate to `http://<public-ip>:28107/ui/docker-kafka-server/node`, replacing <public-ip> by the IP address of the public network interface of the Docker Host. You should see an output similar to the one shown in Figure 2, showing the 3 Kafka brokers of the Apache Kafka cluster we are running on the platform. 
 
+![AKHQ Homepage](/images/2021/11/platys-overview.png)
+
 The Kafka cluster is ready, and you can start creating Kafka topics, and publish and consume messages. 
 
 If you are finished using the platform, you can stop and remove it using the following command:
