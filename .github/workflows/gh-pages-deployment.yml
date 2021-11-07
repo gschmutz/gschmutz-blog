@@ -1,39 +1,30 @@
-name: GitHub Pages
+name: GitHub pages
 
 on:
   push:
     branches:
-    - main
+      - main
+  workflow_dispatch:
 
 jobs:
-  build-deploy:
-    runs-on: ubuntu-20.04
+  deploy:
+    runs-on: ubuntu-18.04
     steps:
-    - uses: actions/checkout@v1
-      with:
-        submodules: true
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
-    - name: Install Ruby Dev                     
-      run: sudo apt-get install ruby-dev
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.86.0'
+          extended: true
 
-    - name: Install AsciiDoctor and Rouge
-      run: sudo gem install asciidoctor rouge
+      - name: Build
+        run: hugo --minify --baseURL=https://gschmutz.github.io/gschmutz.github.io
 
-    - name: Setup Hugo                           
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: '0.75.1'
-
-    - name: Build                                
-      run: hugo
-
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      env:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        external_repository: gschmutz/gschmutz.github.io
-        publish_branch: master
-        # Without `keep_files` the `CNAME` file in the target repo will get removed
-        # and the custom domain configured for GitHub pages will get dropped every 
-        # time the action runs…
-        keep_files: true
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./public
