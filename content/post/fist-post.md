@@ -3,7 +3,7 @@ title: "First Post" # Title of the blog post.
 date: 2021-11-06T20:06:06+01:00 # Date of post creation.
 description: "The first post of the new blog." # Description used for search engine.
 featured: false
-draft: true
+draft: false
 toc: false 
 
 #menu: main
