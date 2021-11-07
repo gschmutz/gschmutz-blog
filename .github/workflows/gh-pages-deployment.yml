@@ -17,4 +17,4 @@ jobs:
         DEPLOY_BRANCH: main
         DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-        TZ: Europe/Berlin q qq
+        TZ: Europe/Berlin
