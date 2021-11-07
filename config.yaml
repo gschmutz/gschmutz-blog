@@ -1,5 +1,4 @@
-#baseurl: 'http://gschmutz.net/'
-baseurl: 'https://gschmutz.github.io'
+baseurl: 'http://gschmutz.net/'
 title: TechBlog
 author: Guido Schmutz
 copyright: >-
