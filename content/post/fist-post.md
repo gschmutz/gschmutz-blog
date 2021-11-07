@@ -222,6 +222,8 @@ After a short while all the services should start up and the platform is ready t
 
 After a short while, the platform with Apache Kafka and Zookeeper should be up and running and ready to use. We can make sure that this is the case by either checking the log file or by navigating to the Apache Kafka HQ service, which provides a nice browser-based view into the Apache Kafka cluster. 
 
+In a browser, navigate to <http://dataplatform:80>.
+
 In a browser window, navigate to `http://<public-ip>:28107/ui/docker-kafka-server/node`, replacing <public-ip> by the IP address of the public network interface of the Docker Host. You should see an output similar to the one shown in Figure 2, showing the 3 Kafka brokers of the Apache Kafka cluster we are running on the platform. 
 
 ![AKHQ Homepage](/images/2021/11/platys-overview.png)
@@ -230,7 +232,7 @@ The Kafka cluster is ready, and you can start creating Kafka topics, and publish
 
 If you are finished using the platform, you can stop and remove it using the following command:
 
-```
+```bash
 docker-compose down
 ```
 
