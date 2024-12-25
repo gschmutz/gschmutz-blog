@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guido Schmutz</title><link>https://demo.stack.jimmycai.com/</link><description>Recent content on Guido Schmutz</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2024 14:50:55 +0100</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to my new Blog</title><link>https://demo.stack.jimmycai.com/p/welcome-to-my-new-blog/</link><pubDate>Mon, 23 Dec 2024 14:50:55 +0100</pubDate><guid>https://demo.stack.jimmycai.com/p/welcome-to-my-new-blog/</guid><description>&lt;p>In an era where data drives decisions and fuels innovation, the importance of robust, scalable, and efficient data platforms cannot be overstated. As a data engineer with years of experience working across a spectrum of modern technologies, I’ve often encountered the challenges and triumphs of building and maintaining these platforms. This blog is my space to share insights, lessons, and ideas with the broader community.&lt;/p>
+&lt;p>This new blog continues the journey I started with my previous blog, which you can find &lt;a class="link" href="https://guidoschmutz.wordpress.com/" target="_blank" rel="noopener"
+>here&lt;/a> and where I was not active for quite some time. While the focus remains on sharing valuable experiences, the scope has expanded to include the latest trends and technologies shaping modern data platforms.&lt;/p>
+&lt;p>Here’s a glimpse of what you can expect:&lt;/p>
+&lt;h2 id="why-modern-data-platforms-matter">Why Modern Data Platforms Matter?
+&lt;/h2>&lt;p>The way we handle data has evolved dramatically in recent years. Organizations now rely on:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Real-Time Insights&lt;/strong>: For faster decision-making.&lt;/li>
+&lt;li>&lt;strong>Scalable Architectures&lt;/strong>: To manage ever-growing data volumes.&lt;/li>
+&lt;li>&lt;strong>Advanced Analytics&lt;/strong>: Leveraging AI and machine learning.&lt;/li>
+&lt;/ul>
+&lt;p>Modern data platforms are the backbone that supports these demands, integrating a multitude of tools, technologies, and architectures to create cohesive ecosystems.&lt;/p>
+&lt;h2 id="what-ill-cover">What I’ll Cover
+&lt;/h2>&lt;p>This blog will explore various facets of modern data platforms, focusing on:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Frameworks and Technologies&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Deep dives into tools like Spark, Apache NiFi, LakeFS, Airflow and many more.&lt;/li>
+&lt;li>Tutorials and use cases to help you get started or optimize your workflows.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Architectures&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Patterns and architectures such as data lakes, lakehouses, and real-time streaming systems.&lt;/li>
+&lt;li>Best practices for designing scalable, efficient, and secure platforms.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Generative AI in Data Engineering&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Exploring how AI can enhance workflows, automate processes, and unlock new possibilities.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Stream Processing&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Insights into technologies like Kafka, Flink, and Spark Streaming.&lt;/li>
+&lt;li>Real-world examples of handling real-time data pipelines.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Personal Notes and Reflections&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Sharing experiences, challenges, and lessons learned from real-world projects.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="who-is-this-blog-for">Who Is This Blog For?
+&lt;/h2>&lt;p>Whether you’re a seasoned data architect, data engineer, a curious developer, or a student eager to learn, this blog has something for you. My goal is to provide:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Actionable Knowledge&lt;/strong>: Through practical tutorials and case studies.&lt;/li>
+&lt;li>&lt;strong>Inspiration&lt;/strong>: Showcasing what’s possible with the right tools and mindset.&lt;/li>
+&lt;li>&lt;strong>Technology Guideance&lt;/strong>: Offering clear direction and advice on selecting and utilizing the right tools and architectures for modern data platforms.&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-is-my-vision">What is my vision?
+&lt;/h2>&lt;p>I believe in the power of open source, open knowledge and collaboration. By sharing my experiences, I hope to:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Demystify Modern Data Platforms&lt;/strong>: Making them accessible to a wider audience.&lt;/li>
+&lt;li>&lt;strong>Empower Others&lt;/strong>: Helping you build platforms that solve real-world problems.&lt;/li>
+&lt;li>&lt;strong>Foster Innovation&lt;/strong>: Inspiring creative solutions to the challenges we face in data engineering.&lt;/li>
+&lt;/ul>
+&lt;h2 id="lets-get-started">Let’s Get Started
+&lt;/h2>&lt;p>I’m excited to embark on this journey with you. Let’s dive into the fascinating world of modern data platforms and explore what’s possible together. Stay tuned for tutorials, deep dives, and reflections that I hope will spark your curiosity and add value to your work.&lt;/p>
+&lt;p>Thank you for visiting, and welcome to my new blog!&lt;/p></description></item><item><title>Archives</title><link>https://demo.stack.jimmycai.com/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/archives/</guid><description/></item><item><title>Links</title><link>https://demo.stack.jimmycai.com/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>https://demo.stack.jimmycai.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/search/</guid><description/></item></channel></rss>
